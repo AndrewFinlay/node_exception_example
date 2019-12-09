@@ -1,0 +1,11 @@
+{
+  "name": "nodeexceptionbug",
+  "version": "1.0.0",
+  "description": "Demonstration of difference in error message due to changes in white space",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
